@@ -1,0 +1,8 @@
+{
+  "product": "Pi.Carretero",
+  "component": "backend",
+  "version": "1.1.0",
+  "channel": "stable",
+  "minimum_app_version": "1.1.0",
+  "release_notes": "Primera versión estable del backend de Pi.Carretero."
+}
