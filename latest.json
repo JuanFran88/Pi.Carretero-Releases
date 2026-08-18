@@ -1,10 +1,10 @@
 {
   "product": "Pi.Carretero",
   "component": "backend",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "channel": "stable",
   "minimum_app_version": "1.1.0",
-  "release_notes": "Versión de prueba para validar la actualización automática del backend.",
-  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.1.1/pi-carretero-backend-1.1.1.tar.gz",
-  "sha256": "e73b46d0fb83ee752590a7d19bbbfebec56eea58b0f83831f75be88ed8f61877"
+  "release_notes": "Versión de prueba para validar la actualización real del backend mediante Releases.",
+  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.1.2/pi-carretero-backend-1.1.2.tar.gz",
+  "sha256": "f9077690ed9fa37c5400cbe62c03723eea6f186c88131139d4582416f8521f52"
 }
