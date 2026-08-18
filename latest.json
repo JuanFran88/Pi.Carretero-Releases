@@ -6,5 +6,5 @@
   "minimum_app_version": "1.1.0",
   "release_notes": "Versión de prueba para validar la actualización real del backend mediante Releases.",
   "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.1.2/pi-carretero-backend-1.1.2.tar.gz",
-  "sha256": "f9077690ed9fa37c5400cbe62c03723eea6f186c88131139d4582416f8521f52"
+  "sha256": "dde6cfa69c02ca879f2408f02b3c930ba91869c19111e8eec1e3ea240e52e309"
 }
