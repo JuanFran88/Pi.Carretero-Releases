@@ -6,5 +6,5 @@
   "minimum_app_version": "1.1.0",
   "release_notes": "• Nginx integrado como proxy inverso seguro.\n• Uvicorn restringido a 127.0.0.1:8001.\n• Backups protegidos frente a modificaciones directas.\n• Restauración y eliminación de backups mantenidas desde la app iOS.\n• Mejoras de seguridad en instalación, actualización y rollback.",
   "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.2.1/pi-carretero-backend-1.2.1.tar.gz",
-  "sha256": "3080859842a7adfbfbafc0be63b9a0219c8126efca46198a698cb62df6be661b"
+  "sha256": "a445801ae50ddc6654722315abb55b5faea3fc8a7e7020d375a60a29ad12456e"
 }
