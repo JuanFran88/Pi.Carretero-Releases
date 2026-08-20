@@ -1,10 +1,10 @@
 {
   "product": "Pi.Carretero",
   "component": "backend",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "channel": "stable",
   "minimum_app_version": "1.1.0",
-  "release_notes": "• Gestión completa de almacenamiento USB y discos externos.\n• Montaje y desmontaje seguro.\n• Explorador de archivos.\n• Mejoras del instalador.\n• Sincronización del sistema de actualizaciones y alertas.",
-  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.2.0/pi-carretero-backend-1.2.0.tar.gz",
-  "sha256": "9845e88f8c4c1fcf15d3c8cf7a7c003591aa33c18f13f58171f6ab8af96301c5"
+  "release_notes": "• Nginx integrado como proxy inverso seguro.\n• Uvicorn restringido a 127.0.0.1:8001.\n• Backups protegidos frente a modificaciones directas.\n• Restauración y eliminación de backups mantenidas desde la app iOS.\n• Mejoras de seguridad en instalación, actualización y rollback.",
+  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.2.1/pi-carretero-backend-1.2.1.tar.gz",
+  "sha256": "84467e903025bc4ef9492fe25b1c7d8f818b772df4ebf52451a5437f5c8391eb"
 }
