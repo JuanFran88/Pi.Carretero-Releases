@@ -1,10 +1,10 @@
 {
   "product": "Pi.Carretero",
   "component": "backend",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "channel": "stable",
   "minimum_app_version": "1.1.0",
-  "release_notes": "Añade rollback del backend mediante API, listado de backups y recuperación automática segura.",
-  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.1.4/pi-carretero-backend-1.1.4.tar.gz",
-  "sha256": "7829e273cbb5dbd495829abc45b90a5dc54c7785fd36cd29c9d734ff9e1ede81"
+  "release_notes": "Añade gestión completa de almacenamiento USB y discos externos, montaje y desmontaje seguro, explorador de archivos, mejoras del instalador y sincronización del sistema de actualizaciones y alertas.",
+  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.2.0/pi-carretero-backend-1.2.0.tar.gz",
+  "sha256": "9845e88f8c4c1fcf15d3c8cf7a7c003591aa33c18f13f58171f6ab8af96301c5"
 }
