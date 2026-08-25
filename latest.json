@@ -1,10 +1,10 @@
 {
   "product": "Pi.Carretero",
   "component": "backend",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "channel": "stable",
   "minimum_app_version": "1.1.0",
-  "release_notes": "• Nginx integrado como proxy inverso seguro.\n• Uvicorn restringido a 127.0.0.1:8001.\n• Backups protegidos frente a modificaciones directas.\n• Restauración y eliminación de backups mantenidas desde la app iOS.\n• Mejoras de seguridad en instalación, actualización y rollback.",
-  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.3.0/pi-carretero-backend-1.3.0.tar.gz",
-  "sha256": "5dedc24d9c8b46a00114d63256c7f0cc14ed56ee29ad88c9487ae60c75c796be"
+  "release_notes": "• Endurecimiento del acceso a Docker mediante helper privilegiado.\n• El backend ya no necesita pertenecer al grupo docker.\n• Eliminación de rutas privilegiadas heredadas.\n• Refuerzo de las cabeceras de seguridad de Nginx.\n• Saneamiento de errores internos en administración, almacenamiento, actualizaciones y notificaciones.\n• Revisión integral de seguridad y validación funcional completadas.",
+  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.3.1/pi-carretero-backend-1.3.1.tar.gz",
+  "sha256": "c2113ec6612c9fd9a6355b61b60a9462a28254a815c9e30f9e83b2d8965dbb31"
 }
