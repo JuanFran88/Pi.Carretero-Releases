@@ -1,10 +1,10 @@
 {
   "product": "Pi.Carretero",
   "component": "backend",
-  "version": "1.3.5",
+  "version": "1.4.0",
   "channel": "stable",
   "minimum_app_version": "1.1.0",
-  "release_notes": "• Corrige instalaciones que reportaban Backend 1.3.4 pero conservaban archivos correspondientes a un estado anterior del código.\n• Fuerza la actualización al estado validado del backend con soporte Android mediante OneSignal y Firebase Cloud Messaging.\n• Normaliza las instalaciones afectadas mediante una nueva versión pública.",
-  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.3.5/pi-carretero-backend-1.3.5.tar.gz",
-  "sha256": "aa60d174d06b89eed5f0cd63ce17fb8cece42d11bb71386ae1dc7bef851ab2d2"
+  "release_notes": "• Nuevo sistema seguro de notificaciones Android mediante Push Relay.\n• Registro autenticado de dispositivos Android sin exponer credenciales de OneSignal.\n• Redundancia automática mediante Cloudflare como relay principal y Netlify como secundario.\n• Envío dirigido exclusivamente a los dispositivos Android seleccionados por el backend.",
+  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.4.0/pi-carretero-backend-1.4.0.tar.gz",
+  "sha256": "253492c7ff62284494b1e3333aa8f6443e22609705564c2c26be8a9bf311973d"
 }
