@@ -1,10 +1,10 @@
 {
   "product": "Pi.Carretero",
   "component": "backend",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "channel": "stable",
   "minimum_app_version": "1.1.0",
-  "release_notes": "• Nuevo sistema seguro de notificaciones Android mediante Push Relay.\n• Registro autenticado de dispositivos Android sin exponer credenciales de OneSignal.\n• Redundancia automática mediante Cloudflare como relay principal y Netlify como secundario.\n• Envío dirigido exclusivamente a los dispositivos Android seleccionados por el backend.",
-  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.4.0/pi-carretero-backend-1.4.0.tar.gz",
-  "sha256": "253492c7ff62284494b1e3333aa8f6443e22609705564c2c26be8a9bf311973d"
+  "release_notes": "• Corrige la actualización de paquetes del sistema que requieren instalar nuevas dependencias.\n• Evita que paquetes detectados como actualizables permanezcan pendientes después de ejecutar la actualización.\n• Mantiene el comportamiento seguro de apt upgrade permitiendo únicamente las nuevas dependencias necesarias.",
+  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.4.1/pi-carretero-backend-1.4.1.tar.gz",
+  "sha256": "66e33154d0e078b32d39741f53fe658f515623f4ae051f42bae11e63cd55e95c"
 }
