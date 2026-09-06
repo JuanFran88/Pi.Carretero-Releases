@@ -1,10 +1,10 @@
 {
   "product": "Pi.Carretero",
   "component": "backend",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "channel": "stable",
   "minimum_app_version": "1.1.0",
-  "release_notes": "• Corrige la actualización de paquetes del sistema que requieren instalar nuevas dependencias.\n• Evita que paquetes detectados como actualizables permanezcan pendientes después de ejecutar la actualización.\n• Mantiene el comportamiento seguro de apt upgrade permitiendo únicamente las nuevas dependencias necesarias.",
-  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.4.1/pi-carretero-backend-1.4.1.tar.gz",
-  "sha256": "66e33154d0e078b32d39741f53fe658f515623f4ae051f42bae11e63cd55e95c"
+  "release_notes": "• Mejora la gestión de dispositivos y notificaciones Push.\n• Amplía la detección y el detalle de servicios del sistema y Docker.\n• Añade detección automática de interfaces web, puertos y protocolos.\n• Mejora la compatibilidad con Pi.Alert y contenedores Docker en modo host, incluido Home Assistant.\n• Actualiza las herramientas privilegiadas de control de servicios.\n• Incluye las mejoras acumuladas desde Backend 1.4.1.",
+  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.4.2/pi-carretero-backend-1.4.2.tar.gz",
+  "sha256": "1ae4eb94ad75421bff1555b82ad52fb4409cafb022dd29b4e9d1a9044e339f98"
 }
