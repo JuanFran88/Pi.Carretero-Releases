@@ -6,5 +6,5 @@
   "minimum_app_version": "1.1.0",
   "release_notes": "• Mejora la gestión de dispositivos y notificaciones Push.\n• Amplía la detección y el detalle de servicios del sistema y Docker.\n• Añade detección automática de interfaces web, puertos y protocolos.\n• Mejora la compatibilidad con Pi.Alert y contenedores Docker en modo host, incluido Home Assistant.\n• Actualiza las herramientas privilegiadas de control de servicios.\n• Incluye las mejoras acumuladas desde Backend 1.4.1.",
   "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.4.2/pi-carretero-backend-1.4.2.tar.gz",
-  "sha256": "1ae4eb94ad75421bff1555b82ad52fb4409cafb022dd29b4e9d1a9044e339f98"
+  "sha256": "78b7b34a9ff819c5d16411424d431729ab86f021a5c8ea06df4183137292e97f"
 }
