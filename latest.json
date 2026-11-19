@@ -1,10 +1,10 @@
 {
   "product": "Pi.Carretero",
   "component": "backend",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "channel": "stable",
   "minimum_app_version": "1.1.0",
-  "release_notes": "• Añade monitorización continua del estado de alimentación de Raspberry Pi.\n• Registra eventos históricos de bajo voltaje, throttling, limitación de frecuencia y soft temperature.\n• Añade endpoints de alimentación, historial, eventos y estado del sensor.\n• Prepara la interfaz para sensores de alimentación INA219/INA226.\n• Mantiene el funcionamiento sin sensor físico instalado.",
-  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.4.3/pi-carretero-backend-1.4.3.tar.gz",
-  "sha256": "0dd1eb16a82961de6c8c9bf811693090162a8ba049b6fdb89bc143276d57b4b9"
+  "release_notes": "• Añade integración inicial del router Vodafone WiFi 6 Station.\n• Detecta el modelo compatible y consulta información general, redes Wi-Fi y reglas NAT.\n• Detecta Super WiFi y mantiene sus opciones en modo de solo lectura.\n• Incorpora verificación HTTPS mediante certificado local.\n• Protege las consultas mediante autenticación de Pi.Carretero.\n• Conserva la configuración y el certificado Vodafone durante las actualizaciones.",
+  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.4.4/pi-carretero-backend-1.4.4.tar.gz",
+  "sha256": "2bd7ce34061ca6e36ab4f2f070a27f110ced9297018b13ee47b4a16302f88850"
 }
