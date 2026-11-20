@@ -1,10 +1,10 @@
 {
   "product": "Pi.Carretero",
   "component": "backend",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "channel": "stable",
   "minimum_app_version": "1.1.0",
-  "release_notes": "• Añade integración inicial del router Vodafone WiFi 6 Station.\n• Detecta el modelo compatible y consulta información general, redes Wi-Fi y reglas NAT.\n• Detecta Super WiFi y mantiene sus opciones en modo de solo lectura.\n• Incorpora verificación HTTPS mediante certificado local.\n• Protege las consultas mediante autenticación de Pi.Carretero.\n• Conserva la configuración y el certificado Vodafone durante las actualizaciones.",
-  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.4.4/pi-carretero-backend-1.4.4.tar.gz",
-  "sha256": "2bd7ce34061ca6e36ab4f2f070a27f110ced9297018b13ee47b4a16302f88850"
+  "release_notes": "Integración del router Vodafone WiFi 6 Station y mejoras de detección, compatibilidad y gestión.",
+  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.4.5/pi-carretero-backend-1.4.5.tar.gz",
+  "sha256": "e569a1aa866922b53f3284b51cc0b109dff1a95cd3805e5a60f86b96be62d6b6"
 }
