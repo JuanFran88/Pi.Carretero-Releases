@@ -1,10 +1,10 @@
 {
   "product": "Pi.Carretero",
   "component": "backend",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "channel": "stable",
   "minimum_app_version": "1.1.0",
-  "release_notes": "Integración del router Vodafone WiFi 6 Station y mejoras de detección, compatibilidad y gestión.",
-  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.4.5/pi-carretero-backend-1.4.5.tar.gz",
-  "sha256": "e569a1aa866922b53f3284b51cc0b109dff1a95cd3805e5a60f86b96be62d6b6"
+  "release_notes": "Autenticación segura del router Vodafone WiFi 6 Station, sesiones protegidas y almacenamiento cifrado de credenciales.",
+  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.4.6/pi-carretero-backend-1.4.6.tar.gz",
+  "sha256": "a1727bd4a8f25c8992472195d5f70ce3c434901e7ec234746e29478d0d021ca2"
 }
