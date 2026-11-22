@@ -1,10 +1,10 @@
 {
   "product": "Pi.Carretero",
   "component": "backend",
-  "version": "1.4.6",
+  "version": "1.4.7",
   "channel": "stable",
   "minimum_app_version": "1.1.0",
-  "release_notes": "Autenticación segura del router Vodafone WiFi 6 Station, sesiones protegidas y almacenamiento cifrado de credenciales.",
-  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.4.6/pi-carretero-backend-1.4.6.tar.gz",
-  "sha256": "a1727bd4a8f25c8992472195d5f70ce3c434901e7ec234746e29478d0d021ca2"
+  "release_notes": "Gestión de puertos NAT Vodafone: creación, edición y eliminación de reglas en modos básico, experto y administrador. Instalación limpia, actualización y rollback no validados.",
+  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.4.7/pi-carretero-backend-1.4.7.tar.gz",
+  "sha256": "208bf0896fcab6aa15fe1019606982330bd875a603ddc3355c558db48ab77ff4"
 }
