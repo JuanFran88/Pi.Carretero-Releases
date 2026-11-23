@@ -4,7 +4,7 @@
   "version": "1.4.8",
   "channel": "stable",
   "minimum_app_version": "1.1.0",
-  "release_notes": "Compatibilidad NAT Vodafone con nombres generados por el firmware. Creación, edición y eliminación verificadas en el router real. Instalación limpia, actualización y rollback todavía no validados.",
+  "release_notes": "Mejorada la compatibilidad NAT con el firmware Vodafone. Adaptada la gestión de nombres generados por el router. Mejorada la verificación al crear, editar y eliminar reglas NAT. Reforzada la conservación de las reglas existentes.",
   "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.4.8/pi-carretero-backend-1.4.8.tar.gz",
   "sha256": "44ea28569502c6d2b20ebcc9624b67350990aab841dc917d4020272f44f78fa4"
 }
