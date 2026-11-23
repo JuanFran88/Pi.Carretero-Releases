@@ -1,10 +1,10 @@
 {
   "product": "Pi.Carretero",
   "component": "backend",
-  "version": "1.4.7",
+  "version": "1.4.8",
   "channel": "stable",
   "minimum_app_version": "1.1.0",
-  "release_notes": "Gestión de puertos NAT Vodafone: creación, edición y eliminación de reglas en modos básico, experto y administrador. Instalación limpia, actualización y rollback no validados.",
-  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.4.7/pi-carretero-backend-1.4.7.tar.gz",
-  "sha256": "208bf0896fcab6aa15fe1019606982330bd875a603ddc3355c558db48ab77ff4"
+  "release_notes": "Compatibilidad NAT Vodafone con nombres generados por el firmware. Creación, edición y eliminación verificadas en el router real. Instalación limpia, actualización y rollback todavía no validados.",
+  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.4.8/pi-carretero-backend-1.4.8.tar.gz",
+  "sha256": "44ea28569502c6d2b20ebcc9624b67350990aab841dc917d4020272f44f78fa4"
 }
