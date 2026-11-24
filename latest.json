@@ -1,10 +1,10 @@
 {
   "product": "Pi.Carretero",
   "component": "backend",
-  "version": "1.4.9",
+  "version": "1.4.10",
   "channel": "stable",
   "minimum_app_version": "1.1.0",
-  "release_notes": "Copias de configuración Vodafone. Exportación y restauración segura de archivos CFG de administrador. Consulta de capacidades y restauraciones pendientes. Protección contra operaciones duplicadas y gestión de resultados inciertos. Restauración habilitada por defecto.",
-  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.4.9/pi-carretero-backend-1.4.9.tar.gz",
-  "sha256": "5e1ad9e74d498a6f31b1a48a18077e292c8a59b85d87dccc47e8ebc4a5b4c79e"
+  "release_notes": "Vodafone: reinicio general, reconexion de fibra, restablecimiento suave y restablecimiento de fabrica protegido. Confirmacion explicita, autorizacion independiente, bloqueo compartido con NAT, reservas persistentes y gestion de resultados inciertos. Operaciones deshabilitadas por defecto.",
+  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.4.10/pi-carretero-backend-1.4.10.tar.gz",
+  "sha256": "8a07a01a47c00787b54d8ca8a187723c1d5df6e43850142cf3e795bf6c5d52b8"
 }
