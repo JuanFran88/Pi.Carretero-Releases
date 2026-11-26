@@ -1,10 +1,10 @@
 {
   "product": "Pi.Carretero",
   "component": "backend",
-  "version": "1.4.10",
+  "version": "1.5.0",
   "channel": "stable",
   "minimum_app_version": "1.1.0",
-  "release_notes": "Vodafone: reinicio general, reconexion de fibra, restablecimiento suave y restablecimiento de fabrica protegido. Confirmacion explicita, autorizacion independiente, bloqueo compartido con NAT, reservas persistentes y gestion de resultados inciertos. Operaciones deshabilitadas por defecto.",
-  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.4.10/pi-carretero-backend-1.4.10.tar.gz",
-  "sha256": "8a07a01a47c00787b54d8ca8a187723c1d5df6e43850142cf3e795bf6c5d52b8"
+  "release_notes": "Nueva arquitectura multimarca para routers. Registro extensible de proveedores, descubrimiento e identificacion autenticada. Integracion Vodafone RHG3006, consultas de informacion, Wi-Fi y NAT. Mejoras de seguridad y proteccion de respaldos.",
+  "artifact_url": "https://github.com/JuanFran88/Pi.Carretero-Releases/releases/download/v1.5.0/pi-carretero-backend-1.5.0.tar.gz",
+  "sha256": "c138e95b5ea73e34a0aad5f73b9679d640d5c34d683f2340f8125b7e224884d2"
 }
